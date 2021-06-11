@@ -2,6 +2,8 @@ package com.websystique.springmvc.configuration;
 
 import java.util.Properties;
 
+import java.sql.Connection;
+
 import javax.sql.DataSource;
 
 import org.hibernate.SessionFactory;
